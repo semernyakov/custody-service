@@ -2,7 +2,7 @@
 ## Transaction Custody Service (Blitz MVP)
 
 **Проект:** Transaction Custody Service  
-**Версия:** 3.0 FINAL (Эксперты Васи + Ёся + Кирилл)  
+**Версия:** 3.0 FINAL
 **Дата:** 26 января 2026  
 **Таймбокс:** 120 минут  
 **Статус:** ✅ READY FOR IMPLEMENTATION
