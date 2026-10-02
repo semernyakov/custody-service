@@ -1,10 +1,10 @@
 # Backend для FinTech v3.0 FINAL
 ## Transaction Custody Service (Blitz MVP)
 
-**Проект:** Transaction Custody Service
-**Версия:** 3.0 FINAL  
-**Дата:** 26 сентября 2026 год
-**Таймбокс:** 120 минут  
+**Проект:** Transaction Custody Service 
+**Версия:** 3.0 FINAL 
+**Дата:** 26 сентября 2026 год 
+**Таймбокс:** 120 минут 
 **Статус:** ✅ READY FOR IMPLEMENTATION
 
 ---
